@@ -1,3 +1,4 @@
+## digest
 Combination of document d,topic t,word w accords to following distribution:  
 (d,t,w) ~ p(t|d)p(w|t)  
 
